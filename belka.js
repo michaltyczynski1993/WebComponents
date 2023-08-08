@@ -100,4 +100,4 @@ class AehBelka extends LitElement{
 
 }
 
-customElements.define('aeh-belka', AehBelka);
+window.customElements.define('aeh-belka', AehBelka);
